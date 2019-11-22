@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Player</string>
+    <string name="app_no_file">"请存放图片或者视频到内置 DCIM 文件夹 , 然后重新打开应用"</string>
+</resources>

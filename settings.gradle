@@ -1,0 +1,2 @@
+include ':customplayer'
+rootProject.name='My Application'
